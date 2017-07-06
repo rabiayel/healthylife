@@ -17,14 +17,14 @@ Programlama Dilleri
 - SQL, projemizin veri havuzunu oluşturmak için kullanılmıştır.
 
 Yazılım Teknolojileri
--MSSQL Server, veritabanı işlemlerini için bilgi yönetimi ve depolama amacıyla kullanılanılmıştır.
+- MSSQL Server, veritabanı işlemlerini için bilgi yönetimi ve depolama amacıyla kullanılanılmıştır.
 - LINQ, program ve veri arasındaki ilişkiyi hızlı bir şekilde sorgulayan teknolojidir.
--JSON, xml'e alternatif olan javascript tabanlı veri değişim formatıdır.
+- JSON, xml'e alternatif olan javascript tabanlı veri değişim formatıdır.
 
 Kütüphane Eklentileri
--Ksoap, soap client kütüphanesidir, Android uygulamamızda web servis ile kolayca ilişki kurmamızı sağlar.
--Zxing, Android uygulamalarda 1D ve 2D boyutlarında barkod grafiklerini taramasına sağlayan kütüphanedir.
--Newtonsoft, .Net çatısı altında, XML çıktılarını JSON çıktısına çeviren kütüphanedir.
+- Ksoap, soap client kütüphanesidir, Android uygulamamızda web servis ile kolayca ilişki kurmamızı sağlar.
+- Zxing, Android uygulamalarda 1D ve 2D boyutlarında barkod grafiklerini taramasına sağlayan kütüphanedir.
+- Newtonsoft, .Net çatısı altında, XML çıktılarını JSON çıktısına çeviren kütüphanedir.
 
 Problemin neresinde devreye giriyoruz ?
 Kare kod sistemi sayesinde insanların kimlik bilgilerinin, geçmiş sağlık bilgilerinin tutulması mümkün olmakta ve 
