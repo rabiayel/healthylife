@@ -1,5 +1,15 @@
 Healthy Life - Sağlıklı Yaşam Kiti / Tübitak 2209 - A 2016 2. dönem kapsamında destek almış bir projedir. 
 
+Proje Ekibi
+
+- Rabia Yel / Erciyes Üniversitesi - Bilgisayar Mühendisliği 
+- Sefa Taşcan / Ankara Üniversitesi - Bilgisayar Mühendisliği
+- Sevcel Gözde Tanay / Erciyes Üniversitesi - Bilgisayar Mühendisliği
+
+Proje Danışmanı
+
+- Doc. Dr. Bahriye Baştürk Akay / Erciyes Üniversitesi - Bilgisayar Mühendisliği - Öğretim Üyesi
+
 Healthy Life Nedir ?
 
 Gün geçtikçe sağlık problemleri artmakta ve çeşitli hastalıklar ortaya çıkmaktadır. 
