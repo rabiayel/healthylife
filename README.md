@@ -1,7 +1,7 @@
-Healthy Life - Sağlıklı Yaşam Kiti
-Tübitak 2209 - A 2016 2. dönem kapsamında destek almış bir projedir. 
+Healthy Life - Sağlıklı Yaşam Kiti / Tübitak 2209 - A 2016 2. dönem kapsamında destek almış bir projedir. 
 
 Healthy Life Nedir ?
+
 Gün geçtikçe sağlık problemleri artmakta ve çeşitli hastalıklar ortaya çıkmaktadır. 
 İnsanoğlunun ihtiyaçları doğrultusunda teknolojik araç ve gereç miktarları her geçen gün artmakta
 ve teknolojinin kullanımı kolaylaşmaktadır. Teknolojinin ilerlemesine karşın birçok insan acil müdahale
@@ -27,6 +27,7 @@ Kütüphane Eklentileri
 - Newtonsoft, .Net çatısı altında, XML çıktılarını JSON çıktısına çeviren kütüphanedir.
 
 Problemin neresinde devreye giriyoruz ?
+
 Kare kod sistemi sayesinde insanların kimlik bilgilerinin, geçmiş sağlık bilgilerinin tutulması mümkün olmakta ve 
 her an yanlarında bulunabilecek eşyalara kare kod yerleştirilmesi sonucunda, hastanın tüm güncel sağlık bilgilerine 
 sağlık personelleri tarafından ulaşılabilmektedir. Böylece ilk müdahale için önemli bir avantaj sağlanması mümkün kılınmıştır.
