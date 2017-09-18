@@ -1,4 +1,4 @@
-Healthy Life - Sağlıklı Yaşam Kiti / Tübitak 2209 - A 2016 2. dönem kapsamında destek almış bir projedir. 
+Healthy Life - Sağlıklı Yaşam Kiti / Tübitak 2209 - A 2016 1. dönem kapsamında destek almış bir projedir. 
 
 Proje Ekibi
 
