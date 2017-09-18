@@ -33,8 +33,8 @@ Yazılım Teknolojileri
 
 Kütüphane Eklentileri
 - Ksoap, soap client kütüphanesidir, Android uygulamamızda web servis ile kolayca ilişki kurmamızı sağlar.
-- Zxing, Android uygulamalarda 1D ve 2D boyutlarında barkod grafiklerini taramasına sağlayan kütüphanedir.
-- Newtonsoft, .Net çatısı altında, XML çıktılarını JSON çıktısına çeviren kütüphanedir.
+- Zxing, QR kodu taramayı sağlayan kütüphanedir.
+- Newtonsoft, veri alış veriş yaparken kullanabiliceğimiz custom bir Serialize & Deserialize işlemini yürüten kütüphanedir.
 
 Problemin neresinde devreye giriyoruz ?
 
